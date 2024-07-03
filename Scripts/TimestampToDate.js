@@ -10,7 +10,6 @@
  **/
 
 function main(input) {
-    let string = input.text
-    let parsedDate = new Date(parseInt(string * 1000))
+    let parsedDate = new Date(parseInt(input.text) * 1000)
     input.text = parsedDate.toLocaleString()
 }
