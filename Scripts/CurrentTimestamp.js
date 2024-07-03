@@ -2,7 +2,7 @@
  {
  "api": 1,
  "name": "Current Timestamp",
- "description": "Get current unix timestamp",
+ "description": "Get current Unix timestamp",
  "author": "Amuwall",
  "icon": "watch",
  "tags": "unix,timestamp"
